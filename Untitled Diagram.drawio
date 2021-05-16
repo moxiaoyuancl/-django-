@@ -1,1 +1,131 @@
-<mxfile host="app.diagrams.net" modified="2021-05-09T12:53:38.160Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="CByW8LP9ZqfS8j1fJzus" version="14.6.11" type="github"><diagram id="K3if5_XP6Gxu8-bFcKUU" name="Page-1">7Vtbc+MmFP41zLQP6Rh0Q4+SL9t02pnt5GG7Tx3FJrZaWbiyHDv763tA6GaRWG5si7Z5SeCAIvSd79yAIGu8PnzKos3qF75gCSKjxQFZE0SIP3LgpxC8FAJMR6NCsszihZLVgof4G1PCctouXrBta2LOeZLHm7ZwztOUzfOWLMoyvm9Pe+JJ+62baMk6god5lHSlX+JFviqklHi1/EcWL1flm7HrFyPrqJysvmS7ihZ83xBZU2SNM87zorU+jFkiwCtxKZ6bvTJaLSxjad7ngZ/S3w8PLAgeDveHbPbtsH9cf7lTn7HNX8oPZgv4ftXlWb7iS55GybSWhhnfpQsm/uoIevWcnznfgBCD8A+W5y9KmdEu5yBa5etEjbJDnP8mHv/BUb2vjZHJQf1l2XlRne7XKgC2fJfN2RufSBRromzJ8jfmKaaK72+8QGH5ifE1y7MXmJCxJMrj5zY/IkWzZTWv1gQ0lDLOUIxa9XOU7NSb0NRHgYt8VzYwCp2O7tqa2a/inD1sIonOHsyzrYVXEX1mWc4Ob2KgRi1XcVtZ9x22lWBf24qnRKuGmZTTLg6bbQ9C6BTW3mC06H5tjtWclr33k9ruSWrbMorVtobVDvLHKBzJxgRRaNgonAmGT11EMQpmg/McO22e4y7LMdHQ3L0Wzd1B3XbDadcuXO+2K8vATbtomMnFLcPpaxlGGUbJqGE0is/Q6PU1g8mlVaMe/cxjWHNl1a7ntKzaObLWYqHqoSP9Vqt4h8qHCVX/IPd6LbyNBjdibFZ4w8P65Zuk071VY1Y+jemHaiosPKNU43SSwvvPIhsMpsgPZDYIaeGkmwSu+Ppxt71NoeM4nYyPahI+erW6ZtBC/Zz84PYZX5kvnOT9xfOK93kkTYlP3AQ+INxuorSlbPevndgmCuc84RmyArHI5eN3DqwNGAfvH7Wa39dPQGspf4NBQZFFXdGgY+R70rICFIylrdko8EXBBXN8W1OCiccx8h009cRkeFCtFb69WK56z9C1muMaVquRjzzvZP522nSxUbZLuntvHzo9V6fYN0un/4O98P725hqlm3LdjVgZ/HqvC1wQ3GYyXlEUeI1w163Mbr6JiI8Ckz90ZLJwB5QBN8uv6JH6FkbELI+Eu5WRjvI+CgiitqT8RBwRmbeBblntrbZqQ3047vtDcP8dHPZ6ctgyq7i3B9nYvgXOZh0g2MP48ttmL711Q43STbnuIz9OwZVTeewZii2uPlX40H68U1wPnsOURcRxZgjQyXDYhLc+ZwbJ1ORc0WrDbJEuzL4GZetqexhYj7In+BoGDcpSFNqS1j6insAXhgB3KnEPYf4Uj0rtBFIXM0SlLkBCyeDIY+IYBr17AegBb+A1NRt641hvWf+WmHr7mqoslU7HYrN23Uk3XuhjMTCN2q2o8R+ou4jmft6N6y6ixf80tlTgKRoeCkMZrI1HW+fAboy2/sIdMNy3ZHiAKOLo8HfFUY+gvSuOXoPp4Nja9Cg4jLrY6k5kr3bT1NIl9TK4UquBaA9oDc5DnaMrUjrUdSH5eqhTPeqBAEzANhG+oJnkHMPviZ++TI4gXQJXIvQwFhlTpRniRmuBZfq43ZhwpOn24P5NtWAPc/xVJTmtFOfkzQJ9QlXlUBfepLB7H7EYlRfZ3ROWMgsqPZTwWVTEXMiRhKvC0uZcYUwiiBQBmhgYl3Hbid25Q4dlW+PF1HWKJy6vqHavfoiBu620DXH9g9ibg/6WR9fhiXCPZcUYIl/GpLCsyEGtvtRU6EjH6Yk0mIb1Jkl9y6NY2Su3PEATeVtv2zzjf7JxcWFlkvJU+ICnOEmORFESL1PozkG/DOSh0Gs8j5JADazjxUI6EB1R2lS6AFcqR1qShWicLdGxxTufLdCt//+ruFdc/xedNf0b</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-05-16T05:31:24.726Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="OdyLP0LzUI_uvgiCcQ7q" version="14.6.11" type="github" pages="2">
+  <diagram id="K3if5_XP6Gxu8-bFcKUU" name="Page-1">
+    <mxGraphModel dx="833" dy="1818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Jn_xSeAASxIxrFzxwbmW-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Jn_xSeAASxIxrFzxwbmW-2" target="Jn_xSeAASxIxrFzxwbmW-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jn_xSeAASxIxrFzxwbmW-2" value="首页" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="-140" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jn_xSeAASxIxrFzxwbmW-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="Jn_xSeAASxIxrFzxwbmW-4" target="Jn_xSeAASxIxrFzxwbmW-43" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jn_xSeAASxIxrFzxwbmW-4" value="地址信息" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="150" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jn_xSeAASxIxrFzxwbmW-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Jn_xSeAASxIxrFzxwbmW-5" target="Jn_xSeAASxIxrFzxwbmW-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jn_xSeAASxIxrFzxwbmW-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="Jn_xSeAASxIxrFzxwbmW-5" target="Jn_xSeAASxIxrFzxwbmW-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="675" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Jn_xSeAASxIxrFzxwbmW-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Jn_xSeAASxIxrFzxwbmW-5" target="Jn_xSeAASxIxrFzxwbmW-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jn_xSeAASxIxrFzxwbmW-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Jn_xSeAASxIxrFzxwbmW-5" target="Jn_xSeAASxIxrFzxwbmW-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jn_xSeAASxIxrFzxwbmW-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Jn_xSeAASxIxrFzxwbmW-5" target="Jn_xSeAASxIxrFzxwbmW-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jn_xSeAASxIxrFzxwbmW-5" value="IP定位" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="355" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Jn_xSeAASxIxrFzxwbmW-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Jn_xSeAASxIxrFzxwbmW-12" target="Jn_xSeAASxIxrFzxwbmW-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jn_xSeAASxIxrFzxwbmW-12" value="&lt;span style=&quot;color: rgb(51 , 51 , 51)&quot;&gt;将北京天气信息展示&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="560" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jn_xSeAASxIxrFzxwbmW-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Jn_xSeAASxIxrFzxwbmW-13" target="Jn_xSeAASxIxrFzxwbmW-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jn_xSeAASxIxrFzxwbmW-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Jn_xSeAASxIxrFzxwbmW-13" target="Jn_xSeAASxIxrFzxwbmW-19" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jn_xSeAASxIxrFzxwbmW-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Jn_xSeAASxIxrFzxwbmW-13" target="Jn_xSeAASxIxrFzxwbmW-26" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jn_xSeAASxIxrFzxwbmW-13" value="AQI天气可视化" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="110" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jn_xSeAASxIxrFzxwbmW-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Jn_xSeAASxIxrFzxwbmW-15" target="Jn_xSeAASxIxrFzxwbmW-29" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jn_xSeAASxIxrFzxwbmW-15" value="天气预警信息" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="335" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jn_xSeAASxIxrFzxwbmW-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Jn_xSeAASxIxrFzxwbmW-17" target="Jn_xSeAASxIxrFzxwbmW-37" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jn_xSeAASxIxrFzxwbmW-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Jn_xSeAASxIxrFzxwbmW-17" target="Jn_xSeAASxIxrFzxwbmW-34" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jn_xSeAASxIxrFzxwbmW-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="Jn_xSeAASxIxrFzxwbmW-17" target="Jn_xSeAASxIxrFzxwbmW-38" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jn_xSeAASxIxrFzxwbmW-17" value="全国天气信息" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="560" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jn_xSeAASxIxrFzxwbmW-19" value="AQI中国地图可视化" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="30" y="320" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jn_xSeAASxIxrFzxwbmW-21" value="AQI空气质量最差10个城市" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="125" y="320" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jn_xSeAASxIxrFzxwbmW-26" value="AQI空气质量最优10个城市" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="230" y="320" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jn_xSeAASxIxrFzxwbmW-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Jn_xSeAASxIxrFzxwbmW-29" target="Jn_xSeAASxIxrFzxwbmW-32" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jn_xSeAASxIxrFzxwbmW-29" value="全国各地天气预警信息" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="335" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jn_xSeAASxIxrFzxwbmW-32" value="天气预警详细信息" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="335" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jn_xSeAASxIxrFzxwbmW-34" value="当日天气数据" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="300" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jn_xSeAASxIxrFzxwbmW-37" value="七天天气数据可视化" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="575" y="300" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jn_xSeAASxIxrFzxwbmW-38" value="二十个天气生活指数&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="680" y="300" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Jn_xSeAASxIxrFzxwbmW-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="Jn_xSeAASxIxrFzxwbmW-43" target="Jn_xSeAASxIxrFzxwbmW-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Jn_xSeAASxIxrFzxwbmW-43" value="后台进行查询信息" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="15" y="-60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Jn_xSeAASxIxrFzxwbmW-48" value="&lt;font style=&quot;font-size: 24px&quot;&gt;天气网站开发流程图&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="290" y="-200" width="220" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="LzYT8M14vItxRpL2BH7o" name="Page-2">
+    <mxGraphModel dx="583" dy="649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="qvB6LOeO1igA1qOD0P0j-0" />
+        <mxCell id="qvB6LOeO1igA1qOD0P0j-1" parent="qvB6LOeO1igA1qOD0P0j-0" />
+        <mxCell id="qvB6LOeO1igA1qOD0P0j-2" value="基于网络掉的城市天气服务系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="qvB6LOeO1igA1qOD0P0j-1">
+          <mxGeometry x="230" y="140" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qvB6LOeO1igA1qOD0P0j-3" value="前端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="qvB6LOeO1igA1qOD0P0j-1">
+          <mxGeometry x="40" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qvB6LOeO1igA1qOD0P0j-4" value="后端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="qvB6LOeO1igA1qOD0P0j-1">
+          <mxGeometry x="414" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
